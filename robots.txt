@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jacks-barber-earlville.vercel.app/sitemap.xml
